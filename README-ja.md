@@ -11,4 +11,4 @@ ___
 [![](https://discordapp.com/api/guilds/173995475098271746/embed.png?style=banner2)](https://discord.gg/QEZ3qk9)
 
 
-###### [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/en-flag.svg) English](https://github.com/avluis/Hentoid/tree/master/README.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/ru-flag.svg) Русский](https://github.com/avluis/Hentoid/tree/master/README-ru.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/uk-flag.svg) Українська](https://github.com/avluis/Hentoid/tree/master/README-uk.md)
+###### [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/en-flag.svg) 英語(English)](https://github.com/avluis/Hentoid/tree/master/README.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/ru-flag.svg) ロシア語(Russian)](https://github.com/avluis/Hentoid/tree/master/README-ru.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/uk-flag.svg) ウクライナ語(Ukrainian)](https://github.com/avluis/Hentoid/tree/master/README-uk.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/jp-flag.svg)日本語](https://github.com/avluis/Hentoid/tree/master/README-jp.md)
