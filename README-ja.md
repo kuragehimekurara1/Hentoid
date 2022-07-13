@@ -14,8 +14,8 @@ ___
 ###### [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/en-flag.svg) 英語(English)](https://github.com/avluis/Hentoid/tree/master/README.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/ru-flag.svg) ロシア語(Russian)](https://github.com/avluis/Hentoid/tree/master/README-ru.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/uk-flag.svg) ウクライナ語(Ukrainian)](https://github.com/avluis/Hentoid/tree/master/README-uk.md) | [![](https://github.com/avluis/Hentoid/blob/master/wiki-img/jp-flag.svg)日本語](https://github.com/avluis/Hentoid/tree/master/README-ja.md)
 
 
-##### `Hentoid` is an ad-free Doujinshi & H-Manga archiving and viewing app.
-###### `Hentoid` currently supports:
+##### `Hentoid` は広告なしの同人誌＆H-マンガのアーカイブおよび表示アプリです。
+###### `Hentoid`は以下のソースに対応しています:
 ###### [nhentai](https://nhentai.net/), [hitomi](https://hitomi.la/), [asmhentai](http://asmhentai.com/), [tsumino](http://www.tsumino.com/), [pururin](https://pururin.io/), [e-hentai](https://e-hentai.org/), [exHentai/sadpanda](https://exhentai.org), [8muses](https://www.8muses.com), [Doujins.com](https://doujins.com), [Luscious.net](https://www.luscious.net), [Porncomixonline](https://www.porncomixonline.net/), [HBrowse](https://www.hbrowse.com/), [Hentai2Read](https://hentai2read.com/), [HentaiFox](https://hentaifox.com), [Myreadingmanga](https://myreadingmanga.info/), [Manwha Hentai](https://manhwahentai.me/), [Imhentai](https://imhentai.com), [Toonily](https://toonily.com/), [Allporncomic](https://allporncomic.com/), [Pixiv](https://www.pixiv.net/) and [MultPorn]([http://multporn.net/](https://multporn.net/)).
 
 ###### Note: `Hentoid` can still import downloads from [FAKKU](https://www.fakku.net/) and [Pururin](https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg).
@@ -23,7 +23,7 @@ ___
 ##### For the latest release, click [here](https://github.com/AVnetWS/Hentoid/releases/latest).
 
 ##### Don't forget to check the [FAQ](https://github.com/avluis/Hentoid/wiki/FAQ) if you have any issue
-##### Visit our [Discord Server](https://discord.gg/QEZ3qk9) to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.
+#####  Hentoidの公式ディスコードサーバー [ディスコードサーバー](https://discord.gg/QEZ3qk9) 他のユーザーとチャットしたり、最新のお知らせを読んだり、開発者の最新情報を入手したり、アプリのサポートを受けたり、開発チームと交流できます。
 ___
 ###### [Help us](https://github.com/AVnetWS/Hentoid/wiki/Contributing) shape `Hentoid` into the best H-Manga App for you.
 
